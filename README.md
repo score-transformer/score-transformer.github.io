@@ -1,5 +1,5 @@
 # **Score Transformer**
-This is the official page for "Score Transformer: Generating Musical Scores from Note-level Representation" (ACM Multimedia Asia 2021). 
+This is the official page for "Score Transformer: Generating Musical Score from Note-level Representation" (ACM Multimedia Asia 2021). 
 
 [**Paper**]() | [**Code**](https://github.com/suzuqn/ScoreTransformer) | [**Poster**](/pdf/ScoreTransformer_Poster.pdf)
 
