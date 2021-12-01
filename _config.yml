@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
+title: Score Transformer
 description: "Score Transformer: Generating Musical Scores from Note-level Representation | Masahiro Suzuki"
 github:
   repository_url: https://github.com/suzuqn/ScoreTransformer
