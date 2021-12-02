@@ -1,7 +1,7 @@
 # **Score Transformer**
 This is the official page for "Score Transformer: Generating Musical Score from Note-level Representation" (ACM Multimedia Asia 2021). 
 
-[**Paper**]() | [**Code**](https://github.com/suzuqn/ScoreTransformer) | [**Poster**](/pdf/ScoreTransformer_Poster.pdf)
+[**Paper**](https://arxiv.org/abs/2112.00355) | [**Code**](https://github.com/suzuqn/ScoreTransformer) | [**Poster**](/pdf/ScoreTransformer_Poster.pdf)
 
 ## **Overview**
 Musical scores contain various **musical elements**, which help us **visually comprehend** music.
@@ -48,7 +48,7 @@ Differences between the original and generated scores were measured based on [a 
 
 If you find our work is helpful, please consider citing our work:
 ```
-@inproceedings{suzuki2021scoretransformer,
+@inproceedings{suzuki2021mmasia,
  author = {Suzuki, Masahiro},
  title = {Score Transformer: Generating Musical Score from Note-level Representation},
  journal = {ACM Multimedia Asia (MMAsia'21)},
