@@ -48,12 +48,12 @@ Differences between the original and generated scores were measured based on [a 
 
 If you find our work is helpful, please consider citing our work:
 ```
-@inproceedings{suzuki2021mmasia,
+@inproceedings{suzuki2021,
  author = {Suzuki, Masahiro},
  title = {Score Transformer: Generating Musical Score from Note-level Representation},
- journal = {ACM Multimedia Asia (MMAsia'21)},
- month = December,
+ booktitle = {Proceedings of the 3rd ACM International Conference on Multimedia in Asia},
  year = {2021},
+ pages = {31:1--31:7},
  doi = {10.1145/3469877.3490612}
 }
 ```
